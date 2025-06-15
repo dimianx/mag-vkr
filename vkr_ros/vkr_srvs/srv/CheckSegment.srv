@@ -1,0 +1,10 @@
+geometry_msgs/Point start
+geometry_msgs/Point end
+builtin_interfaces/Time check_time
+uint16 uav_id
+---
+bool collision_detected
+uint32 object_id
+string object_type
+geometry_msgs/Point hit_point
+geometry_msgs/Vector3 hit_normal

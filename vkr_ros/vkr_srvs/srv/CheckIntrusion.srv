@@ -1,0 +1,6 @@
+geometry_msgs/Point position
+uint16 uav_id
+---
+bool inside_other_corridor
+float32 distance_to_boundary
+uint32 intruded_corridor_id

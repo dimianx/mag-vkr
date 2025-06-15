@@ -1,0 +1,6 @@
+uint32 corridor_id
+uint32 segment_id
+builtin_interfaces/Time timestamp
+geometry_msgs/Point min_bound
+geometry_msgs/Point max_bound
+uint16 uav_id

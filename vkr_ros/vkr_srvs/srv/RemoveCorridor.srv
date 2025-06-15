@@ -1,0 +1,4 @@
+uint32 corridor_id
+---
+bool success
+string error_message

@@ -1,0 +1,8 @@
+uint16 uav_id
+geometry_msgs/Point[] path
+float32 radius
+uint32 current_waypoint_index
+---
+bool success
+uint32 corridor_id
+string error_message

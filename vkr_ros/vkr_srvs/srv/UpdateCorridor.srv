@@ -1,0 +1,6 @@
+uint32 corridor_id
+geometry_msgs/Point[] full_path
+uint32 new_waypoint_index
+---
+bool success
+string error_message

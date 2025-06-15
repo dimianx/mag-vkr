@@ -1,0 +1,11 @@
+geometry_msgs/Point[] waypoints
+float32 radius
+builtin_interfaces/Time start_time
+float32 velocity
+uint16 uav_id
+---
+bool collision_detected
+uint32 first_collision_segment
+uint32 object_id
+string object_type
+geometry_msgs/Point hit_point

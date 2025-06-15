@@ -1,0 +1,8 @@
+geometry_msgs/Point position
+builtin_interfaces/Time check_time
+uint16 uav_id
+---
+float32 distance
+geometry_msgs/Point closest_point
+uint32 closest_object_id
+string closest_object_type
